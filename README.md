@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @justkeepdoingit
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning angular v13
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 - I do really want to become a full-pledge Web Developer and I want to learn a lot if not everything about it!
 <!---
